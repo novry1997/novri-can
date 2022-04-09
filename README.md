@@ -1,0 +1,2 @@
+# novri-can
+student
